@@ -1,0 +1,22 @@
+{
+  "name": "super-ai-ml-foundation",
+  "title": "Super AI/ML Foundation",
+  "description": "AI/ML foundations: model selection, prompt design, RAG, embeddings, and vector search. Use for core AI app design and build.",
+  "version": "0.1.0",
+  "source_catalogue": "skills-super",
+  "skill_entrypoint": "SKILL.md",
+  "modules": [
+    {
+      "name": "AI Engineering",
+      "path": "references/modules/ai-engineer.md"
+    },
+    {
+      "name": "Prompt Engineering",
+      "path": "references/modules/prompt-engineering-patterns.md"
+    },
+    {
+      "name": "RAG Engineering",
+      "path": "references/modules/rag-engineer.md"
+    }
+  ]
+}
