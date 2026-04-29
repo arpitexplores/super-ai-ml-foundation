@@ -1,7 +1,7 @@
 {
   "name": "super-ai-ml-foundation",
   "title": "Super AI/ML Foundation",
-  "description": "AI/ML foundations: model selection, prompt design, RAG, embeddings, and vector search. Use for core AI app design and build.",
+  "description": "The go-to AI vibe coding skill for AI application foundations: model selection, prompt engineering, RAG, embeddings, vector search, and production-ready AI app design.",
   "version": "0.1.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
@@ -18,5 +18,17 @@
       "name": "RAG Engineering",
       "path": "references/modules/rag-engineer.md"
     }
+  ],
+  "keywords": [
+    "AI app development",
+    "AI engineering",
+    "prompt engineering",
+    "RAG",
+    "retrieval augmented generation",
+    "embeddings",
+    "vector search",
+    "LLM apps",
+    "AI vibe coding",
+    "agent skills"
   ]
 }
