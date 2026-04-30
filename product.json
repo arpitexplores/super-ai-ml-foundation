@@ -2,7 +2,7 @@
   "name": "super-ai-ml-foundation",
   "title": "Super AI/ML Foundation",
   "description": "The go-to AI vibe coding skill for AI application foundations: model selection, prompt engineering, RAG, embeddings, vector search, and production-ready AI app design.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
   "modules": [
